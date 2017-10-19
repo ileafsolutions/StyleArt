@@ -1,3 +1,11 @@
+# StyleArt
+Style Art is a library that process images using COREML with a set of pre trained machine learning models and convert them to Art style.
+
+<img src="./Asset/art.png?raw=true">
+
+## Preview
+<img src="./Asset/preview.png?raw=true">
+
 ## Installation
 
 ### Compatibility
