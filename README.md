@@ -39,5 +39,5 @@ enum ArtStyle{
 More usage info can found on the example project.
 
 ## Author
-Ileaf Solutions
+iLeaf Solutions
  [http://www.ileafsolutions.com](http://www.ileafsolutions.com)
