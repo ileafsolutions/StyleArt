@@ -38,6 +38,10 @@ enum ArtStyle{
 ```
 More usage info can found on the example project.
 
+## Credits
+jcjohnson
+[https://github.com/jcjohnson/neural-style](http://https://github.com/jcjohnson/neural-style)
+
 ## Author
 iLeaf Solutions
  [http://www.ileafsolutions.com](http://www.ileafsolutions.com)
