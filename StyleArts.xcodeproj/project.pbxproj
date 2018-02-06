@@ -18,14 +18,13 @@
 		0B1C1D351F948A8400B77182 /* UIImage+CVPixelBuffer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1C1D2D1F948A8400B77182 /* UIImage+CVPixelBuffer.swift */; };
 		0B1C1D391F9493A100B77182 /* StyleArtInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1C1D381F9493A100B77182 /* StyleArtInput.swift */; };
 		0B1C1D4B1F94B19E00B77182 /* FilterCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1C1D4A1F94B19E00B77182 /* FilterCollectionViewCell.swift */; };
+		0B2C8CB420242F180080FFFA /* FNS-Udnie.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C8CAE20242F170080FFFA /* FNS-Udnie.mlmodel */; };
+		0B2C8CB520242F180080FFFA /* FNS-La-Muse.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C8CAF20242F170080FFFA /* FNS-La-Muse.mlmodel */; };
+		0B2C8CB620242F180080FFFA /* FNS-Mosaic.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C8CB020242F180080FFFA /* FNS-Mosaic.mlmodel */; };
+		0B2C8CB720242F180080FFFA /* FNS-Candy.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C8CB120242F180080FFFA /* FNS-Candy.mlmodel */; };
+		0B2C8CB820242F180080FFFA /* FNS-Feathers.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C8CB220242F180080FFFA /* FNS-Feathers.mlmodel */; };
+		0B2C8CB920242F180080FFFA /* FNS-The-Scream.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C8CB320242F180080FFFA /* FNS-The-Scream.mlmodel */; };
 		0B9BF4BF1F95BB1100239354 /* ProgessHud.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B9BF4BE1F95BB1100239354 /* ProgessHud.swift */; };
-		0BE5289E1F98B07A004A44BD /* FNS-Feathers.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0BE528971F98B07A004A44BD /* FNS-Feathers.mlmodel */; };
-		0BE5289F1F98B07A004A44BD /* FNS-The-Scream.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0BE528981F98B07A004A44BD /* FNS-The-Scream.mlmodel */; };
-		0BE528A01F98B07A004A44BD /* FNS-Candy.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0BE528991F98B07A004A44BD /* FNS-Candy.mlmodel */; };
-		0BE528A11F98B07A004A44BD /* FNS-La-Muse.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0BE5289A1F98B07A004A44BD /* FNS-La-Muse.mlmodel */; };
-		0BE528A21F98B07A004A44BD /* FNS-Mosaic.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0BE5289B1F98B07A004A44BD /* FNS-Mosaic.mlmodel */; };
-		0BE528A31F98B07A004A44BD /* FNS-Udnie.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0BE5289C1F98B07A004A44BD /* FNS-Udnie.mlmodel */; };
-		0BE528A41F98B07A004A44BD /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0BE5289D1F98B07A004A44BD /* Inceptionv3.mlmodel */; };
 		D9D4333A8683141BD460F880 /* Pods_StyleArts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A73CD1A8092C2254AF21E88 /* Pods_StyleArts.framework */; };
 		F44543791EF0461F0024AFAC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44543781EF0461F0024AFAC /* AppDelegate.swift */; };
 		F445437B1EF0461F0024AFAC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F445437A1EF0461F0024AFAC /* ViewController.swift */; };
@@ -46,14 +45,13 @@
 		0B1C1D2D1F948A8400B77182 /* UIImage+CVPixelBuffer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+CVPixelBuffer.swift"; sourceTree = "<group>"; };
 		0B1C1D381F9493A100B77182 /* StyleArtInput.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleArtInput.swift; sourceTree = "<group>"; };
 		0B1C1D4A1F94B19E00B77182 /* FilterCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterCollectionViewCell.swift; sourceTree = "<group>"; };
+		0B2C8CAE20242F170080FFFA /* FNS-Udnie.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-Udnie.mlmodel"; path = "StyleArt/CoreMLModels/FNS-Udnie.mlmodel"; sourceTree = "<group>"; };
+		0B2C8CAF20242F170080FFFA /* FNS-La-Muse.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-La-Muse.mlmodel"; path = "StyleArt/CoreMLModels/FNS-La-Muse.mlmodel"; sourceTree = "<group>"; };
+		0B2C8CB020242F180080FFFA /* FNS-Mosaic.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-Mosaic.mlmodel"; path = "StyleArt/CoreMLModels/FNS-Mosaic.mlmodel"; sourceTree = "<group>"; };
+		0B2C8CB120242F180080FFFA /* FNS-Candy.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-Candy.mlmodel"; path = "StyleArt/CoreMLModels/FNS-Candy.mlmodel"; sourceTree = "<group>"; };
+		0B2C8CB220242F180080FFFA /* FNS-Feathers.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-Feathers.mlmodel"; path = "StyleArt/CoreMLModels/FNS-Feathers.mlmodel"; sourceTree = "<group>"; };
+		0B2C8CB320242F180080FFFA /* FNS-The-Scream.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-The-Scream.mlmodel"; path = "StyleArt/CoreMLModels/FNS-The-Scream.mlmodel"; sourceTree = "<group>"; };
 		0B9BF4BE1F95BB1100239354 /* ProgessHud.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgessHud.swift; sourceTree = "<group>"; };
-		0BE528971F98B07A004A44BD /* FNS-Feathers.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-Feathers.mlmodel"; path = "StyleArt/CoreMLModels/FNS-Feathers.mlmodel"; sourceTree = "<group>"; };
-		0BE528981F98B07A004A44BD /* FNS-The-Scream.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-The-Scream.mlmodel"; path = "StyleArt/CoreMLModels/FNS-The-Scream.mlmodel"; sourceTree = "<group>"; };
-		0BE528991F98B07A004A44BD /* FNS-Candy.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-Candy.mlmodel"; path = "StyleArt/CoreMLModels/FNS-Candy.mlmodel"; sourceTree = "<group>"; };
-		0BE5289A1F98B07A004A44BD /* FNS-La-Muse.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-La-Muse.mlmodel"; path = "StyleArt/CoreMLModels/FNS-La-Muse.mlmodel"; sourceTree = "<group>"; };
-		0BE5289B1F98B07A004A44BD /* FNS-Mosaic.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-Mosaic.mlmodel"; path = "StyleArt/CoreMLModels/FNS-Mosaic.mlmodel"; sourceTree = "<group>"; };
-		0BE5289C1F98B07A004A44BD /* FNS-Udnie.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "FNS-Udnie.mlmodel"; path = "StyleArt/CoreMLModels/FNS-Udnie.mlmodel"; sourceTree = "<group>"; };
-		0BE5289D1F98B07A004A44BD /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = StyleArt/CoreMLModels/Inceptionv3.mlmodel; sourceTree = "<group>"; };
 		1A73CD1A8092C2254AF21E88 /* Pods_StyleArts.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StyleArts.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D0C644E96D0D9FA22B7D740 /* Pods_CoreMLDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CoreMLDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		21DF07D5EFED530173B65666 /* Pods-CoreMLDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CoreMLDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-CoreMLDemo/Pods-CoreMLDemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -84,13 +82,12 @@
 		0B072F9B1F95C405001A74B4 /* CoreMlModels */ = {
 			isa = PBXGroup;
 			children = (
-				0BE528991F98B07A004A44BD /* FNS-Candy.mlmodel */,
-				0BE528971F98B07A004A44BD /* FNS-Feathers.mlmodel */,
-				0BE5289A1F98B07A004A44BD /* FNS-La-Muse.mlmodel */,
-				0BE5289B1F98B07A004A44BD /* FNS-Mosaic.mlmodel */,
-				0BE528981F98B07A004A44BD /* FNS-The-Scream.mlmodel */,
-				0BE5289C1F98B07A004A44BD /* FNS-Udnie.mlmodel */,
-				0BE5289D1F98B07A004A44BD /* Inceptionv3.mlmodel */,
+				0B2C8CB120242F180080FFFA /* FNS-Candy.mlmodel */,
+				0B2C8CB220242F180080FFFA /* FNS-Feathers.mlmodel */,
+				0B2C8CAF20242F170080FFFA /* FNS-La-Muse.mlmodel */,
+				0B2C8CB020242F180080FFFA /* FNS-Mosaic.mlmodel */,
+				0B2C8CB320242F180080FFFA /* FNS-The-Scream.mlmodel */,
+				0B2C8CAE20242F170080FFFA /* FNS-Udnie.mlmodel */,
 			);
 			name = CoreMlModels;
 			path = ..;
@@ -306,26 +303,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				F445437B1EF0461F0024AFAC /* ViewController.swift in Sources */,
+				0B2C8CB820242F180080FFFA /* FNS-Feathers.mlmodel in Sources */,
 				0B9BF4BF1F95BB1100239354 /* ProgessHud.swift in Sources */,
-				0BE528A01F98B07A004A44BD /* FNS-Candy.mlmodel in Sources */,
 				0B1C1D2E1F948A8400B77182 /* Array.swift in Sources */,
+				0B2C8CB520242F180080FFFA /* FNS-La-Muse.mlmodel in Sources */,
 				0B1C1D301F948A8400B77182 /* Math.swift in Sources */,
-				0BE528A21F98B07A004A44BD /* FNS-Mosaic.mlmodel in Sources */,
-				0BE528A31F98B07A004A44BD /* FNS-Udnie.mlmodel in Sources */,
 				0B072F9E1F95CB7A001A74B4 /* StyleArt.swift in Sources */,
+				0B2C8CB720242F180080FFFA /* FNS-Candy.mlmodel in Sources */,
+				0B2C8CB620242F180080FFFA /* FNS-Mosaic.mlmodel in Sources */,
 				0B1C1D321F948A8400B77182 /* MultiArray.swift in Sources */,
+				0B2C8CB420242F180080FFFA /* FNS-Udnie.mlmodel in Sources */,
 				0B1C1D311F948A8400B77182 /* MLMultiArray+Image.swift in Sources */,
 				0B1C1D4B1F94B19E00B77182 /* FilterCollectionViewCell.swift in Sources */,
 				0B1C1D391F9493A100B77182 /* StyleArtInput.swift in Sources */,
 				0B1C1D341F948A8400B77182 /* Predictions.swift in Sources */,
-				0BE528A41F98B07A004A44BD /* Inceptionv3.mlmodel in Sources */,
+				0B2C8CB920242F180080FFFA /* FNS-The-Scream.mlmodel in Sources */,
 				0B1C1D351F948A8400B77182 /* UIImage+CVPixelBuffer.swift in Sources */,
-				0BE5289F1F98B07A004A44BD /* FNS-The-Scream.mlmodel in Sources */,
-				0BE5289E1F98B07A004A44BD /* FNS-Feathers.mlmodel in Sources */,
 				0B1C1D2F1F948A8400B77182 /* CVPixelBuffer+Helpers.swift in Sources */,
 				F44543791EF0461F0024AFAC /* AppDelegate.swift in Sources */,
 				0B1C1D331F948A8400B77182 /* NonMaxSuppression.swift in Sources */,
-				0BE528A11F98B07A004A44BD /* FNS-La-Muse.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
